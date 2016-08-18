@@ -11,6 +11,6 @@ Just safe-keeping a bunch of random code and small projects (some "completed" ot
 
 
 
-[//] # (Links to stuff, for easier future manipulation)
+[//]: # (Links to stuff, for easier future manipulation)
 
 [interpreters-folder]: ./Interpreters/
