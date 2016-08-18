@@ -1,0 +1,9 @@
+Opdeling, OOP!
+
+Reg dele, find navn, find id til gif
+
+hent gif billeder, sammensæt til pdf
+
+slå id op per bog navn (søgning)
+
+fiks try/except med canvas pdf

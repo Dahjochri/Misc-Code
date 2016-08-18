@@ -1,5 +1,7 @@
 # Misc-Code
 Just safe-keeping a bunch of random code and small projects (some "completed" others not even half done)
+Most of it probably doesn't work. Most of it is probably just sparsely documented. Enter the files at your own risk.
+
 
 ## List of projects and short descriptions
 * [Interpreters][interpreters-folder] - _Programs that interpret simple esoteric languages_

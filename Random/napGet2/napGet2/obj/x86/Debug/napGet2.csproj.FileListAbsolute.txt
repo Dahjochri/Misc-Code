@@ -1,0 +1,11 @@
+C:\Users\Daniel\Dropbox\Coding\Random\napGet2\napGet2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Coding\Random\napGet2\napGet2\obj\x86\Debug\napGet2.Form1.resources
+C:\Users\Daniel\Dropbox\Coding\Random\napGet2\napGet2\obj\x86\Debug\napGet2.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\Coding\Random\napGet2\napGet2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Daniel\Dropbox\Coding\Random\napGet2\napGet2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Daniel\Dropbox\Coding\Random\napGet2\napGet2\bin\Debug\napGet2.exe
+C:\Users\Daniel\Dropbox\Coding\Random\napGet2\napGet2\bin\Debug\napGet2.pdb
+C:\Users\Daniel\Dropbox\Coding\Random\napGet2\napGet2\obj\x86\Debug\napGet2.exe
+C:\Users\Daniel\Dropbox\Coding\Random\napGet2\napGet2\obj\x86\Debug\napGet2.pdb
+C:\Users\tismanden\Dropbox\Coding\Random\napGet2\napGet2\obj\x86\Debug\napGet2.exe
+C:\Users\tismanden\Dropbox\Coding\Random\napGet2\napGet2\obj\x86\Debug\napGet2.pdb

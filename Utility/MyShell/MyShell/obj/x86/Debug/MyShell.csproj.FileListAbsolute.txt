@@ -1,0 +1,12 @@
+C:\Users\Daniel\Dropbox\Coding\Utility\MyShell\MyShell\bin\Debug\MyShell.exe
+C:\Users\Daniel\Dropbox\Coding\Utility\MyShell\MyShell\bin\Debug\MyShell.pdb
+C:\Users\Daniel\Dropbox\Coding\Utility\MyShell\MyShell\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Coding\Utility\MyShell\MyShell\obj\x86\Debug\MyShell.exe
+C:\Users\Daniel\Dropbox\Coding\Utility\MyShell\MyShell\obj\x86\Debug\MyShell.pdb
+C:\Users\Lol\Dropbox\Coding\Utility\MyShell\MyShell\obj\x86\Debug\MyShell.exe
+C:\Users\Lol\Dropbox\Coding\Utility\MyShell\MyShell\obj\x86\Debug\MyShell.pdb
+C:\Users\Lol\Dropbox\Coding\Utility\MyShell\MyShell\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lol\Dropbox\Coding\Utility\MyShell\MyShell\bin\Debug\MyShell.exe
+C:\Users\Lol\Dropbox\Coding\Utility\MyShell\MyShell\bin\Debug\MyShell.pdb
+C:\Users\Daniel\Dropbox\Programming Projects\Utility\MyShell\MyShell\obj\x86\Debug\MyShell.exe
+C:\Users\Daniel\Dropbox\Programming Projects\Utility\MyShell\MyShell\obj\x86\Debug\MyShell.pdb

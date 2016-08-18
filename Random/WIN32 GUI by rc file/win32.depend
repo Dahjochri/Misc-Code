@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1251151930 source:c:\documents and settings\daniel\my documents\coding\projects\win32\main.cpp
+	<windows.h>
+	"resource.h"
+
+1251151930 c:\documents and settings\daniel\my documents\coding\projects\win32\resource.h
+
+1251152458 source:c:\documents and settings\daniel\my documents\coding\projects\win32\resource.rc
+	"resource.h"
+
