@@ -14,7 +14,7 @@ Just safe-keeping a bunch of random code and small projects (some "completed" ot
 [interpreters-folder]: <./Interpreters/>
 
 [BF-interpreter]: <./Interpreters/BF Executor/>
-[BF-interpreter-C]: <./Interpreters/BF Executor/>/>
+[BF-interpreter-C]: <./Interpreters/BF Executor/>
 [BF-interpreter-C++]: <./Interpreters/BF Executor/>
 [BF-description]: <https://esolangs.org/wiki/Brainfuck>
 
