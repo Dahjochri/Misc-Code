@@ -13,12 +13,15 @@ Just safe-keeping a bunch of random code and small projects (some "completed" ot
 
 [interpreters-folder]: <./Interpreters/>
 
-[BF-interpreter]: <./Interpreters/BF Executor/>
-[BF-interpreter-C]: <./Interpreters/BF Executor/>
-[BF-interpreter-C++]: <./Interpreters/BF Executor/>
+[BF-interpreter]: <./Interpreters/BF%20Executor/>
+
+[BF-interpreter-C]: <./Interpreters/BF%20Executor/>
+
+[BF-interpreter-C++]: <./Interpreters/BF%20Executor/>
+
 [BF-description]: <https://esolangs.org/wiki/Brainfuck>
 
-[HQ9+-interpreter]: <./Interpreters/HQ9+ Executor/>
-[HQ9+-interpreter-C]: <./Interpreters/HQ9+ Executor/>
-[HQ9+-interpreter-C++]: <./Interpreters/HQ9+ Executor/>
+[HQ9+-interpreter]: <./Interpreters/HQ9+%20Executor/>
+[HQ9+-interpreter-C]: <./Interpreters/HQ9+%20Executor/>
+[HQ9+-interpreter-C++]: <./Interpreters/HQ9+%20Executor/>
 [HQ9+-description]: <https://esolangs.org/wiki/HQ9+>
